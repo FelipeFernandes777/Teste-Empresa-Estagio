@@ -1,0 +1,233 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 150px;
+  width: 100%;
+  background-image: linear-gradient(#e9492a, #e72357);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 150px;
+}
+
+.logo_text {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.ball_transparent {
+  position: absolute;
+  left: -26px;
+  top: 30px;
+}
+
+.logo_manda_trends {
+  position: relative;
+  margin: auto 70px;
+  width: 230px;
+}
+
+.seta_header {
+  position: absolute;
+  width: 56px;
+  left: 38.9%;
+  top: 12px;
+}
+
+.text_header {
+  display: flex;
+  width: 200px;
+  margin: auto 75px;
+}
+
+.bolinhas {
+  position: absolute;
+  left: 22%;
+  top: 120px;
+}
+
+.woman_ {
+  position: absolute !important;
+  top: 52px;
+  left: 40%;
+}
+
+.triangulo {
+  position: absolute;
+  top: 2px;
+  right: 4.5%;
+}
+
+.zigzag {
+  width: 100px;
+  position: absolute;
+  right: 6.2%;
+  top: 15%;
+}
+
+/* Main */
+
+main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+.main_content {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.main {
+  width: 90%;
+}
+
+.primary_news {
+  margin: 15px auto;
+}
+
+.primary_news img {
+  width: 100%;
+}
+
+.title {
+  line-height: 28px;
+  font-size: 30px;
+}
+
+.font_news {
+  color: #bcbcbc;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.primary_line {
+  height: 4px;
+  background-image: linear-gradient(#e72158, #685ba4);
+  width: 45%;
+}
+
+.second_news {
+  display: flex;
+  gap: 25px;
+  justify-content: space-between;
+}
+
+.sub_title {
+  font-weight: bold;
+}
+
+.second_news .news {
+  width: 428.5px;
+}
+
+.second_news .NBA {
+  width: 428.5px;
+  height: 300px;
+}
+
+.second_line {
+  height: 4px;
+  width: 63%;
+  background-image: linear-gradient(#77c8d0, #665da5);
+}
+
+.second_news .tirty_news {
+  width: 428.5px;
+}
+
+.second_news .Whatsapp {
+  width: 428.5px;
+  height: 300px;
+}
+
+.tirty_line {
+  height: 4px;
+  width: 63%;
+  background-image: linear-gradient(#77c8d0, #39b387);
+}
+
+/* Footer */
+
+footer {
+  margin-top: 20px;
+  bottom: 0;
+  position: static;
+}
+
+.footer_content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+
+.footer_logo {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  background-color: #fc4c02;
+  height: 100px;
+}
+
+.copy_footer {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  line-height: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+}
+
+.copy_footer p {
+  text-align: center;
+  color: #646869;
+  font-size: 16px;
+}
+
+.copy_footer span:hover {
+  cursor: pointer;
+}
+
+.bottom_line {
+  text-decoration: underline;
+  bottom: 0;
+  display: flex;
+  align-self: flex-end;
+}
+
+/* Media query */
+
+/* 1900 || Extra Large */
+
+/* 1600 || Extra Large */
+
+/* 1200 || Large */
+
+/* 992 || Medium */
+
+/* 768 || Small */
+
+/* 480 || Extra Small */

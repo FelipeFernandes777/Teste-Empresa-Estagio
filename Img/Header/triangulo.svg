@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 22" width="23" height="22">
+	<title>triangulo</title>
+	<defs>
+		<image  width="23" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWAQMAAAARuJVGAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAMSURBVHicY2CgDQAAAFgAAQN2hZMAAAAASUVORK5CYII="/>
+		<image  width="23" height="22" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAMAAAAcqPc3AAAAAXNSR0IB2cksfwAAANVQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wjTcqQAAAEd0Uk5TAAcNAfsgHf+gZM981GEKGz73m5AoNyshCGnI2lsLGUL1o4xy/TICtiIGVbBuxBRM1uBZEEOW4XknDhYMO4rv7YYcPI3lElADurjLAAAAs0lEQVR4nG2P1xKCQAxFr4LGimLBjtiwYe+9+/+f5MCgLpr7ssk5O5kEcOLzg4skywGOBynEinAEUU7E4uCEQglwIqk6z59IpeGKjHfLrFtFSRN4jvLgRKH4rUVRKoMTFdLBiarh3e4tanUvR8MRUrP1w802mUCHuuIteq9PVKwA1uADh6Nak8ZWxrSbydRhs/lCpeVqbbp/NrTFbn840ul8kYSBV7rdyWg8RGZHU58K/vMCq5cNUavs3EQAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Camada 1" href="#img2" x="0" y="0"/>
+</svg>

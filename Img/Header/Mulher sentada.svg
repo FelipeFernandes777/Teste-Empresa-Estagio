@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78 8" width="78" height="8">
+	<title>Mulher sentada</title>
+	<defs>
+		<image  width="78" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAIAQMAAABtZVsvAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAMSURBVHicY2CgDQAAAFgAAQN2hZMAAAAASUVORK5CYII="/>
+		<image  width="78" height="8" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAICAMAAABgdTleAAAAAXNSR0IB2cksfwAAASZQTFRF////////////////AAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////IqhVhQAAAGJ0Uk5T2OuNGwAOdt7/5YYUEoDheBmK6dpxCgELRe37Xg8EDVD3W1hS+Ulq8UgMEWg6B8tC42FdE0t0CfU4CB/9GjMvFyMiGCHvPigVKvMdSudwU2UWQHk7ZkxVUWBNP3JE3IcQfRzZxxoXAAABI0lEQVR4nF2QCVPCMBCFA6QYUEFrobQmpWARWikWUYpWBfEEUfA+Ufz/f0KGXkl3JrMv3+y8vA0AsXgCssUll1AqvRyhK6splMlyEbq2zqMNIedfQV4sSAIzUZA3MVGKaomhZXVLIbikVRi6Xa3pxNjR6r7d/JiNLDWxK7m5FKtJ0T3LzdWS9il6ANqLnrA7oR085GvBxJFz7ClsnwT0VDU81XV61Mv+lmdOP7SDfXTucfHiMpi+kq891ZJvAtoZKJ4aOsOA3o7M0A7WbTdTG9xRuxQlNxO27ik6BuKiT+wHij42zNAOPsljg+iV6jOk60UtY8K9am8MfR98zP+/qX0y9Ev6FvO+HcwJU8T/dCFbv7MMsmZGhE7SIzRN6hH6F4+Bf+JXJk1eqpLEAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Camada 1" href="#img2" x="0" y="0"/>
+</svg>

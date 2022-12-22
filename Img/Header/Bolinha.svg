@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 62" width="37" height="62">
+	<title>Bolinha</title>
+	<defs>
+		<image  width="37" height="62" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAA+AQMAAACWQUAYAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAANSURBVHicY2AYBfQGAAF0AAFW115iAAAAAElFTkSuQmCC"/>
+		<image  width="37" height="62" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAA+CAMAAACbUSJpAAAAAXNSR0IB2cksfwAAANtQTFRF////////////AAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+CUfmwAAAEl0Uk5TYfdJAAfTzQVS+WD/OC3lQMQxBKSbAjfIDEoJMgvevCwjK7iWGxSjAQ8NGn/t6XL1zzXjKpgeeHUkmSkZbhFU68Yo3J4T/Q6QX4rD8t4AAAGCSURBVHiczZZZU8JAEIQ3xCRgKygRDIegCAaNggreHErw+P+/SO0JloIP82BZyUt/1TW1tdvZY4yxMvbnt+a4HiGby1I911kjZKx1Y8EhbwCbhDzy1E1gg+DAMoWtbXLR3ykRyrtlamnHLxK2twrG1nyprQoqVaFyTbReqQvUZK12tRKYPTTITWCf4MKl7gMHhAb2TAuH5DbQIRzhiNoB2oRDtEzYDmXg7rFoeJIYx93EaIepzcsuLVu/GCaCDBecnkm8PfSo1bPTQAZCZPo4J18ATcIlLqkfMV8QztE3g+EVOby+kZxu727FuLkW42p4n968VFUPo7HQRA6r3RnJDrKzE9Hx6MFM8UiuAU+EGWbUJ0B27yOmJkZEnj/nXgiveKW+5J7nhAixsZNdbnvFBBZG0fsyUpuXbva6JHSp6v6QcvYprdKctIHy1OpuAN1topv9/1fpbvKVV8GHT/3xKuheGN1r9Zdr/P+qwu6i64iXuo74W9eh62BWuyFrpRt6ewfX3UfphfN+MgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Camada 1" href="#img2" x="0" y="0"/>
+</svg>

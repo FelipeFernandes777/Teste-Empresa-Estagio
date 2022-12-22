@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157 157" width="157" height="157">
+	<title>Bola</title>
+	<defs>
+		<image  width="157" height="157" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ0AAACdAQMAAACU6OiVAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAaSURBVHic7cEBDQAAAMKg909tDwcUAADAiQEM4QABAiPSkgAAAABJRU5ErkJggg=="/>
+		<image  width="157" height="157" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ0AAACdCAMAAACZ+IrkAAAAAXNSR0IB2cksfwAAAJxQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////kyDQZAAAADR0Uk5TAA8BNwcdJAI5GTgmLQUDMxsEPB8LJzsUCjIqEgkOLgw0QRojEEZHFhweRSshBi8VCCUTIlEJBscAAAKNSURBVHic7dzpUsIwFAXg21LFFlq2CgoqyqLihuD7v5tJcFQcwCZN00Pnnplk+iv9BmhI0wtEVuL5oquJFpyI7lS0up2B8+ZMNC8UXSSEQUMcNGOipCUO2mW6wo7ouvtxvVR052XhvAy4vmiDC6cu/1ILNxDd0B0u0sbJg9TJhWKK64kuKRLWCPLhWkXqbODiETKuScXM1NZwciBonH9lzRVfW8dF9nBbY1rDhT4yzkPH3SDjuug4b4yMC9Fxt8i4O8OFgTNcYPDF4Q7XQsdpvnpucS29VQvjtnBJHxl3h46bIOOmM8blwM2RcffouBQZ9/B4rDgq5r5VD7c4BCwb93ToLpdx/+DSfdMyBO6ZcTlwuzaoYHD9mHHmuPjvlAyF23GPwbjMuBdk3PP2Oo9xergEGffrytB/GOwQR4zTxQ3GyLgB43LgXpFxX1dGloqc0nDEOBNcGiPjevi4A/Vz5eMIF/eGjNsUTTGugrh4ST4uTp6IcZXELamGi9tUETKOcW5x4kQnyDhiXDVxAZ3i4jZltYyrJK4OjNvsbIPiuozLhWsj41QYp/8WvSPjQoU7R8YR46qKowtI3OoHiIeL/OPADZFxxLiq4tSPgaFwwXobiIVrHBEuQcbJMM4URyNkHDEuI66zA1dHwTV3FBzLMM4Up37ECoujo8HNPvBw6jG8wk0BcYSOu0HGEeNy4GiGjCN03C0yToZxpji1HoDFETruChknA41Tp4LFETpugoxTgcbNkXGEjkuRcSrQuAUyTgYap9bzsDiZyNr+XAE4mcJ2Nq1kgYyTeUHGqZjhaL1vPKtJzHAOM9bBrRzjZF6z4kqLnLneDlSBvZeJ+478wC8FTv0vTCBxiY1hPwHKheyU3hGPYgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Camada 1" href="#img2" x="0" y="0"/>
+</svg>
