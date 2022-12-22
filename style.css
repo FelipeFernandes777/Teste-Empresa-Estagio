@@ -103,6 +103,7 @@ main {
 
 .primary_news img {
   width: 100%;
+  height: 500px;
 }
 
 .title {
@@ -167,8 +168,6 @@ main {
 
 footer {
   margin-top: 20px;
-  bottom: 0;
-  position: static;
 }
 
 .footer_content {
@@ -222,11 +221,162 @@ footer {
 
 /* 1900 || Extra Large */
 
+@media (max-width: 1920px) {
+  /* Header */
+
+  .triangulo {
+    position: absolute;
+    top: 2px;
+    right: 3%;
+  }
+
+  .zigzag {
+    width: 100px;
+    position: absolute;
+    right: 4.2%;
+    top: 12%;
+  }
+
+  .title {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .description_news {
+    font-size: 20px;
+  }
+
+  .second_news .news {
+    font-size: 23px;
+    width: 574px;
+  }
+  .second_news .NBA {
+    width: 100%;
+    height: 322px;
+  }
+  .second_news .tirty_news {
+    width: 574px;
+    font-size: 23px;
+  }
+
+  .second_news .Whatsapp {
+    width: 100%;
+    height: 322px;
+  }
+
+  .font_news {
+    font-size: 19px;
+  }
+}
+
 /* 1600 || Extra Large */
+
+@media (max-width: 1600px) {
+  .title {
+    font-size: 36px;
+    line-height: 36px;
+  }
+
+  .description_news {
+    font-size: 20px;
+  }
+
+  .second_news .news {
+    font-size: 22px;
+    width: 490px;
+  }
+  .second_news .NBA {
+    width: 100%;
+    height: 322px;
+  }
+  .second_news .tirty_news {
+    font-size: 22px;
+    width: 490px;
+  }
+
+  .second_news .Whatsapp {
+    width: 100%;
+    height: 322px;
+  }
+
+  .font_news {
+    font-size: 19px;
+  }
+}
 
 /* 1200 || Large */
 
+@media (max-width: 1200px) {
+  /* Header */
+
+  .bolinhas {
+    position: absolute;
+    left: 27%;
+    top: 12.4%;
+  }
+
+  .woman_ {
+    width: 130px;
+  }
+
+  .second_news .news {
+    font-size: 22px;
+    width: 360px;
+  }
+  .second_news .NBA {
+    width: 100%;
+    height: 270px;
+  }
+  .second_news .tirty_news {
+    font-size: 22px;
+    width: 360px;
+  }
+
+  .second_news .Whatsapp {
+    width: 100%;
+    height: 270px;
+  }
+
+  .sub_title {
+    font-size: 22px;
+  }
+}
+
 /* 992 || Medium */
+
+@media (max-width: 992px) {
+  .bolinhas {
+    position: absolute;
+    left: 27%;
+    top: 12.4%;
+  }
+
+  .woman_ {
+    width: 130px;
+  }
+
+  .second_news .news {
+    font-size: 22px;
+    width: 360px;
+  }
+  .second_news .NBA {
+    width: 100%;
+    height: 270px;
+  }
+  .second_news .tirty_news {
+    font-size: 22px;
+    width: 360px;
+  }
+
+  .second_news .Whatsapp {
+    width: 100%;
+    height: 270px;
+  }
+
+  .sub_title {
+    font-size: 22px;
+  }
+}
 
 /* 768 || Small */
 
