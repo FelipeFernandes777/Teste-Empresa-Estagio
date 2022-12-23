@@ -221,13 +221,13 @@ footer {
 
 /* 1900 || Extra Large */
 
-@media (max-width: 1920px) {
+@media (max-width: 1900px) {
   /* Header */
 
   .triangulo {
     position: absolute;
     top: 2px;
-    right: 3%;
+    right: 5%;
   }
 
   .zigzag {
@@ -380,4 +380,58 @@ footer {
 
 /* 768 || Small */
 
+/* Header */
+
+.ball_transparent {
+  position: absolute;
+  left: -20px;
+  top: 30px;
+}
+
+.logo_manda_trends {
+  position: relative;
+  margin: auto 70px;
+  width: 230px;
+}
+
+.seta_header {
+  position: absolute;
+  width: 56px;
+  left: 38.9%;
+  top: 12px;
+}
+
+.text_header {
+  display: flex;
+  width: 200px;
+  margin: auto 75px;
+}
+
+.bolinhas {
+  position: absolute;
+  left: 22%;
+  top: 120px;
+}
+
+.woman_ {
+  position: absolute !important;
+  top: 52px;
+  left: 40%;
+}
+
+.triangulo {
+  position: absolute;
+  top: 2px;
+  right: 4.5%;
+}
+
+.zigzag {
+  width: 100px;
+  position: absolute;
+  right: 6.2%;
+  top: 15%;
+}
+
 /* 480 || Extra Small */
+
+
